@@ -1,2 +1,2 @@
 # MS Excel VBA
-VBA and Macros
+VBA script analyzing the stock market
